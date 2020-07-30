@@ -49,7 +49,7 @@
               </div>
               <div class="addr-add" @click="openAddressModal">
                 <div class="icon-add"></div>
-                <div>添加新地址</div>
+                <div>添加新地 址</div>
               </div>
             </div>
           </div>
