@@ -191,7 +191,7 @@ export default{
         this.list = res.list;
       })
     },
-    // 打开新增地址弹框
+    // 打开新增地址 弹框
     openAddressModal(){
       this.userAction = 0;
       this.checkedItem = {};

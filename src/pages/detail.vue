@@ -70,7 +70,7 @@ export default{
     return {
       id:this.$route.params.id,//获取商品ID
       err:'',
-      version:1,//商品版本切换
+      version:1,//商品版本 切换
       product:{},//商品信息
       swiperOption:{
         autoplay:true,

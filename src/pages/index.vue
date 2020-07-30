@@ -5,7 +5,7 @@
         <div class="nav-menu">
           <ul class="menu-wrap">
             <li class="menu-item">
-              <a href="javascript:;">手机 电话卡</a>
+              <a href="javascript:;">手机  电话卡</a>
               <div class="children">
                 <ul v-for="(item,i) in menuList" v-bind:key="i">
                   <li v-for="(sub,j) in item" v-bind:key="j">

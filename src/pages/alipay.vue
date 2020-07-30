@@ -26,7 +26,7 @@
         this.axios.post('/pay',{
           orderId:this.orderId,
           orderName:'Vue高仿小米商城',
-          amount:0.01,//单位元
+          amount:0.01,//单位 元
           payType:1 //1支付宝，2微信
         }).then((res)=>{
           this.content = res.content;

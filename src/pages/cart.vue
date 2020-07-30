@@ -68,7 +68,7 @@
     data(){
       return {
         list:[],//商品列表
-        allChecked:false,//是否全选
+        allChecked:false,//是否全 选
         cartTotalPrice:0,//商品总金额
         checkedNum:0//选中商品数量
       }
